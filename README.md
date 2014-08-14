@@ -1,4 +1,7 @@
-CollectionsLearning
+Generic Collections Learning
 ===================
 
-Generic Collection Learning
+- Generic List
+- Generic Dictionary
+- Generic Stack/Queue
+

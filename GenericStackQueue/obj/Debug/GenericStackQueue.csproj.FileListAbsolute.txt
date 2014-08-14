@@ -1,0 +1,6 @@
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\bin\Debug\GenericStackQueue.exe.config
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\bin\Debug\GenericStackQueue.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\bin\Debug\GenericStackQueue.pdb
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\obj\Debug\GenericStackQueue.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\obj\Debug\GenericStackQueue.pdb
+D:\RnD\OPPS\Collection\Collections_Solution\GenericStackQueue\obj\Debug\GenericStackQueue.csprojResolveAssemblyReference.cache

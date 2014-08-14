@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{552B42A2-A0D4-40D4-8C28-364C4B3B4889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDictionary", "GenericDictionary\GenericDictionary.csproj", "{4319581F-45A9-46D1-8F83-74EF5C4D16DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStackQueue", "GenericStackQueue\GenericStackQueue.csproj", "{21196DC5-B772-4951-AC33-2931199722C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552B42A2-A0D4-40D4-8C28-364C4B3B4889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B42A2-A0D4-40D4-8C28-364C4B3B4889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B42A2-A0D4-40D4-8C28-364C4B3B4889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B42A2-A0D4-40D4-8C28-364C4B3B4889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4319581F-45A9-46D1-8F83-74EF5C4D16DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4319581F-45A9-46D1-8F83-74EF5C4D16DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4319581F-45A9-46D1-8F83-74EF5C4D16DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4319581F-45A9-46D1-8F83-74EF5C4D16DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21196DC5-B772-4951-AC33-2931199722C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21196DC5-B772-4951-AC33-2931199722C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21196DC5-B772-4951-AC33-2931199722C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21196DC5-B772-4951-AC33-2931199722C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

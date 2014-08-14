@@ -1,0 +1,6 @@
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\bin\Debug\GenericDictionary.exe.config
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\bin\Debug\GenericDictionary.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\bin\Debug\GenericDictionary.pdb
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\obj\Debug\GenericDictionary.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\obj\Debug\GenericDictionary.pdb
+D:\RnD\OPPS\Collection\Collections_Solution\GenericDictionary\obj\Debug\GenericDictionary.csprojResolveAssemblyReference.cache

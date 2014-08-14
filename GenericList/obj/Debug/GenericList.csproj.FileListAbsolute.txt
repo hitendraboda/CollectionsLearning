@@ -1,0 +1,6 @@
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\bin\Debug\GenericList.exe.config
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\bin\Debug\GenericList.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\bin\Debug\GenericList.pdb
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\obj\Debug\GenericList.exe
+D:\RnD\OPPS\Collection\Collections_Solution\GenericList\obj\Debug\GenericList.pdb
